@@ -24,9 +24,9 @@ export default function Component() {
               <p className="text-gray-600">Send us an email today!</p>
               <Link
                 className="text-yellow-400"
-                href="mailto:contact@boostmedia.ma"
+                href="mailto:contact@boostmedia1.ma"
               >
-                contact@boostmedia.ma
+                contact@boostmedia1.ma
               </Link>
             </div>
           </div>
@@ -36,7 +36,7 @@ export default function Component() {
               <h2 className="text-xl font-semibold">Phone</h2>
               <p className="text-gray-600">Give us a call now!</p>
               <Link className="text-yellow-400" href="tel:0625950284">
-                0625950284
+                +212658581045
               </Link>
             </div>
           </div>

@@ -50,7 +50,7 @@ export default function Component() {
                 </Link>
                 <Link
                   className="text-gray-600 flex items-center space-x-2"
-                  href="https://www.instagram.com/boostmedia1.ma/?hl=fr"
+                  href="https://www.instagram.com/boostmedia1.ma/"
                   target="_blank"
                 >
                   <InstagramIcon className="h-4 w-4" />
@@ -82,7 +82,7 @@ export default function Component() {
           </div>
         </div>
         <div className="border-t border-gray-200 py-6 mt-10 text-center text-xs text-gray-600">
-          <p>© 2024 Relume. All rights reserved.</p>
+          <p>© 2024 BoostMedia. All rights reserved.</p>
           <div className="flex justify-center space-x-4 mt-4">
             <Link className="text-gray-600" href="#">
               Privacy Policy

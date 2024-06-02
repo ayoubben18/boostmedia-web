@@ -78,10 +78,7 @@ export default function Component() {
   };
 
   return (
-    <section
-      className="w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"
-      id="form"
-    >
+    <section className="w-full py-12 md:py-24 lg:py-32 " id="form">
       <div className="container px-4 md:px-6">
         <div className="mx-auto max-w-xl space-y-6">
           <div className="space-y-2 text-center">
